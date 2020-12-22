@@ -1,0 +1,58 @@
+*{
+    padding: 0;
+    margin: 0;  
+}
+
+.container{
+    margin: 0 auto;
+}
+
+.left-size-title{
+    font-size: 50px !important;
+}
+
+.left-size-text{
+    padding-right: 30px;
+}
+
+.right-side{
+    width: 400px;
+    height: 250px;
+
+}
+
+.main-text{
+    padding: 20px 200px
+}
+.ish-list{
+    margin-left: 150px!important;
+}
+.ish-text{
+    padding: 20px 200px!important;
+}
+
+.buyurtma-text{
+    padding: 20px 200px!important;
+}
+
+form{
+    padding: 50px;
+    margin-left: 280px;
+    background-color: white!important;
+}
+form input{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 50px;
+    background: #F3F3F3!important;
+}
+
+form select{
+    height: 50px;
+    background: #F3F3F3!important ;
+}
+
+.sayt{
+    margin-top: 130px;
+    margin-left:100px
+}
